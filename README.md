@@ -44,7 +44,7 @@ My primary focus is app development, where I enjoy turning ideas into functional
   </a>
 
   <a href="https://spline.design/">
-    <img src="https://img.shields.io/badge/Spline-FFD500?logo=spline&logoColor=black" alt="Spline">
+    <img src="https://img.shields.io/badge/Spline-pink?logo=logo%3Dspline">
   </a>
 
   <a href="https://github.com/">
