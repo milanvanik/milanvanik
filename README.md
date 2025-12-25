@@ -59,37 +59,45 @@ My primary focus is app development, where I enjoy turning ideas into functional
 ### 🖥️ Languages  
 <div>
   <a href="https://dart.dev/">
-    <img src="https://img.shields.io/badge/Dart-blue" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" />
   </a>
-  <a href="https://www.c-language.org/">
-    <img src="https://img.shields.io/badge/C%20language-blue" />
+
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
   </a>
+
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C%20%2B%2B-blue" />
+    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
   </a>
+
   <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-blue" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
   </a>
+
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-blue" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   </a>
+
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   </a>
 </div>
 
 ### 💾 Backend & Databases  
 <div>
   <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/Firebase-orange" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
   </a>
+
   <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-orange" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
   </a>
+
   <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-blue" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
   </a>
+
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-blue" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   </a>
 </div>
