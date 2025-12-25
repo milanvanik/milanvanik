@@ -30,7 +30,7 @@ My primary focus is app development, where I enjoy turning ideas into functional
 <!-- ============================= -->
 
 ### ⚙️ Tools & Workflow  
-<div align="center">
+<div>
 <a href="https://developer.android.com/studio">
     <img src="https://img.shields.io/badge/Android%20Studio-green" />
   </a>
@@ -55,7 +55,7 @@ My primary focus is app development, where I enjoy turning ideas into functional
 </div>
 
 ### 🖥️ Languages  
-<div align="center">
+<div>
   <a href="https://dart.dev/">
     <img src="https://img.shields.io/badge/Dart-blue" />
   </a>
@@ -77,7 +77,7 @@ My primary focus is app development, where I enjoy turning ideas into functional
 </div>
 
 ### 💾 Backend & Databases  
-<div align="center">
+<div>
   <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/Firebase-orange" />
   </a>
