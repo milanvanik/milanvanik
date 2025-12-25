@@ -44,10 +44,10 @@ My primary focus is app development, where I enjoy turning ideas into functional
     <img src="![Static Badge](https://img.shields.io/badge/Figma-peach)" />
   </a>
   <a href="https://spline.design/">
-    <img src="https://img.shields.io/badge/Spline-pink">
+    <img src="https://img.shields.io/badge/Spline-black">
   </a>
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Github-black" />
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-orange" />
