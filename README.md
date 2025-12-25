@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-<img width="1400" height="350" alt="Group 74" src="https://github.com/user-attachments/assets/ceafcf8f-6e68-4686-b58f-ff97770482bb" />
+<img width="1400" height="350" alt="Group 74" src="https://technobrains.io/wp-content/uploads/2021/05/flutter-banner.webp" />
 
 ---
 
