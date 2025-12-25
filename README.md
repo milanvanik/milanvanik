@@ -13,8 +13,6 @@
 # 👋 Hi, I'm Milan vanik
 **Engineering unique digital experiences with Flutter, design, Ai and intent.**
 
----
-
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
@@ -56,8 +54,6 @@ My primary focus is app development, where I enjoy turning ideas into functional
   </a>
 </div>
 
----
-
 ### 🖥️ Languages  
 <div align="center">
   <a href="https://dart.dev/">
@@ -79,8 +75,6 @@ My primary focus is app development, where I enjoy turning ideas into functional
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   </a>
 </div>
-
----
 
 ### 💾 Backend & Databases  
 <div align="center">
