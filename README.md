@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-<img width="1901" height="1059" alt="Screenshot 2025-12-25 142211" src="https://github.com/user-attachments/assets/fdeb2673-0fc3-40de-bce2-a1c0ac2324ae" />
+<img src="https://github.com/user-attachments/assets/59ff15a8-598a-44d4-9ec2-2707088fccd6" width="1400" height="350" alt="Group 79">
 
 ---
 
