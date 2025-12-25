@@ -101,7 +101,3 @@ My primary focus is app development, where I enjoy turning ideas into functional
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   </a>
 </div>
-
----
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=milanvanik)](https://github.com/milanvanik/github-readme-stats)
