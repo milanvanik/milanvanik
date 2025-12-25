@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-<img width="4162" height="2200" alt="Group 83" src="https://github.com/user-attachments/assets/b5f7d74f-a0b4-410f-b0f9-acc466d770f0" />
+<img width="4062" height="2100" alt="Group 83 (1)" src="https://github.com/user-attachments/assets/d70483a5-0e2a-4745-8e42-5dddb024e090" />
 
 ---
 
