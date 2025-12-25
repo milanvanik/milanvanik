@@ -110,9 +110,6 @@ My primary focus is app development, where I enjoy turning ideas into functional
 
 ## 🚀 My Projects  
 
-<video src="https://github.com/user-attachments/assets/c8bd1c12-583a-4a37-85b1-c02caa94aa2c" 
-       autoplay="autoplay" 
-       loop="loop" 
-       muted="muted" 
-       style="max-width: 100%;">
-</video>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b12a1d1-2d41-44b9-a793-a420a8d8c4f7" width="150" alt="Coffee Demo"/>
+</p>
