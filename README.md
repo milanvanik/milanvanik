@@ -31,26 +31,28 @@ My primary focus is app development, where I enjoy turning ideas into functional
 
 ### ⚙️ Tools & Workflow  
 <div>
-<a href="https://developer.android.com/studio">
-    <img src="https://img.shields.io/badge/Android%20Studio-green" />
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white" alt="Android Studio" />
   </a>
+  
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
-  <a href="https://antigravity.google/">
-    <img src="https://img.shields.io/badge/Antigravity-blue" />
-  </a>
+
   <a href="https://www.figma.com/">
-    <img src="![Static Badge](https://img.shields.io/badge/Figma-peach)" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
   </a>
+
   <a href="https://spline.design/">
-    <img src="https://img.shields.io/badge/Spline-black">
+    <img src="https://img.shields.io/badge/Spline-FFD500?logo=spline&logoColor=black" alt="Spline">
   </a>
+
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/Github-black" />
+    <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" alt="Github" />
   </a>
+
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-orange" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   </a>
 </div>
 
