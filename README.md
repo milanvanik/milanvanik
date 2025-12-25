@@ -58,24 +58,6 @@ My primary focus is app development, where I enjoy turning ideas into functional
 
 ---
 
-### 💾 Backend & Databases  
-<div align="center">
-  <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/Firebase-orange" />
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-orange" />
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-purple" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-blue" />
-  </a>
-</div>
-
----
-
 ### 🖥️ Languages  
 <div align="center">
   <a href="https://dart.dev/">
@@ -88,7 +70,7 @@ My primary focus is app development, where I enjoy turning ideas into functional
     <img src="https://img.shields.io/badge/C%20%2B%2B-blue" />
   </a>
   <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-purple" />
+    <img src="https://img.shields.io/badge/PHP-blue" />
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-blue" />
@@ -100,4 +82,18 @@ My primary focus is app development, where I enjoy turning ideas into functional
 
 ---
 
+### 💾 Backend & Databases  
+<div align="center">
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-orange" />
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/Postman-orange" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/PHP-blue" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-blue" />
+  </a>
 </div>
