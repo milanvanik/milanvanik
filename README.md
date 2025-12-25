@@ -2,8 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](<img width="1400" height="350" alt="Group 79" src="https://github.com/user-attachments/assets/59ff15a8-598a-44d4-9ec2-2707088fccd6" />)
-
+<img src="https://github.com/user-attachments/assets/59ff15a8-598a-44d4-9ec2-2707088fccd6" width="1400" height="350" alt="Group 79">
 ---
 
 <!-- ============================= -->
