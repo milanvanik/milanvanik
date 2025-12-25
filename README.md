@@ -101,15 +101,3 @@ My primary focus is app development, where I enjoy turning ideas into functional
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   </a>
 </div>
-
----
-
-<!-- ============================= -->
-<!--           MY PROJECTS         -->
-<!-- ============================= -->
-
-## 🚀 My Projects  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b12a1d1-2d41-44b9-a793-a420a8d8c4f7" width="150" alt="Coffee Demo"/>
-</p>
