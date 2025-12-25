@@ -1,1 +1,1 @@
-<img width="985" height="530" alt="Group 84 (1)" src="https://github.com/user-attachments/assets/711dd663-58cf-4be9-83c6-123570cd48fe" />
+<img width="3940" height="2120" alt="Group 84 (2)" src="https://github.com/user-attachments/assets/30debbbf-dfd5-4820-a23e-04955a420ce5" />
