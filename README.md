@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-<img width="954" height="533" alt="Screenshot 2025-12-25 154322" src="https://github.com/user-attachments/assets/50a6b7dd-9b46-4668-a56e-fd891ed573e9" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/aecfe456-09df-49a2-b78d-1a0273dad24d" />
 
 ---
 
